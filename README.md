@@ -148,8 +148,8 @@ ai-agent/
 ### Linux / macOS
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/hanzlabaig-dev/Controlled-Web-AI-Agent.git
+cd Controlled-Web-AI-Agent
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -159,8 +159,8 @@ cp .env.example .env
 ### Windows (PowerShell)
 
 ```powershell
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/hanzlabaig-dev/Controlled-Web-AI-Agent.git
+cd Controlled-Web-AI-Agent
 py -m venv venv
 .\venv\Scripts\Activate.ps1      # if blocked: Set-ExecutionPolicy -Scope Process Bypass
 pip install -r requirements.txt
