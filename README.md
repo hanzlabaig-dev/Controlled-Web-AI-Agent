@@ -1,4 +1,4 @@
-# Controlled Web AI Agent
+# Controlled Web AI Agent V2
 
 A small, readable, **tool-calling AI agent** written in plain Python. Give it a task in natural language and it will research on the internet, inspect *your own* website, read and write files in a sandbox folder, and — only with your explicit approval, command by command — run terminal commands (PowerShell on Windows, bash elsewhere).
 
